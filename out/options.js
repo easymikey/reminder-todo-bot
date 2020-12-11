@@ -28,3 +28,4 @@ var dateOptions = {
     minute: 'numeric',
 };
 exports.dateOptions = dateOptions;
+//# sourceMappingURL=options.js.map

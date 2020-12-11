@@ -115,3 +115,4 @@ bot.action(buttons.completeTodoTask.command, function (_a) {
     });
 });
 bot.startPolling(1000);
+//# sourceMappingURL=index.js.map

@@ -49,3 +49,4 @@ var deleteTodoTask = function (stamp) {
     });
 };
 exports.default = { addTodoTask: addTodoTask, getAllTodoTasks: getAllTodoTasks, deleteTodoTask: deleteTodoTask };
+//# sourceMappingURL=db.js.map
