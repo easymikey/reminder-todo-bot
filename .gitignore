@@ -1,0 +1,11 @@
+/.idea
+/node_modules
+/.next
+/.env
+/src/utils/dataIcons/data.js
+
+server.cert
+server.key
+info.log
+error.log
+winston.log
